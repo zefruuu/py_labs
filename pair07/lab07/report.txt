@@ -1,0 +1,6 @@
+Average grades:
+Anna: 10.50
+Illya: 1.50
+Ivan: 10.50
+
+Best student: Anna with average grade: 10.50
